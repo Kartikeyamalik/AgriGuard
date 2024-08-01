@@ -33,3 +33,9 @@ Our prototype is an advanced solution designed to tackle the pressing challenges
     - Intuitive design and easy-to-use dashboard for seamless interaction and management of agricultural operations.
 
 These features combine to create a powerful tool that enhances productivity, sustainability, and profitability for farmers.
+
+### Figma Link
+
+https://www.figma.com/design/lELhaUZRRGEZstDp73xuOe/Visily-(Community)?node-id=1-891&t=VBF5YDGIQWCIaziX-1
+
+https://app.visily.ai/projects/3c7e36f3-b3f8-4e34-92c9-07eb269e011a/boards/1130928/presenter?play-mode=Prototype
